@@ -1,1 +1,1 @@
-package Arraylist;
+package ArrayList;
